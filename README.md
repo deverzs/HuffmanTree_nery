@@ -1,6 +1,8 @@
 # CS113-HW09-HuffmanTree
 ## HW #9 for CS113 - Huffman Tree Encoding + URL Request
 
+**[//Insert Build Status Image//]**
+
 >One of the first forms of data compression was through morse code, by encoding more frequent letters through shorter messages, like e being a single dot, allowing the transmission of information over the wire. A later version of data compression arose with the rise of the internet in the 1970’s, Huffman encoding, being dynamically generated on input data was very efficient until the invention of the LZ77 algorithm in 1977.
 
 ## Huffman Tree Encoder
@@ -20,10 +22,11 @@ Provide a driver to demonstrate your `HuffmanTree` implementation works by:
  3. using the built Huffman tree with the *encoded file* to create a ***decoded file***
  4. output the number of bits for each file, make sure to use 16 bits per character for the *original* and *decoded* files ( for *encoded* file simply count the number of 0's and 1's for the number of bits).   Note that *original* and *decoded* files should have the exact same number of bits!
  5. output the percentage of compression (number of bits in *original* file / number of bits in *encoded* file).
+ 
+ ## Implementation Notes
+ - The text provides methods that can serve as a guide for your HuffmanTree implementation. In addition, starter code has been provided for the `encode` and `decode` methods which accept a single String parameter. Once tested and complete, consider the interaction between `TextFileGenerator` and `HuffmanTree` in your driver program; it is recommended to overload these two methods in addition to the constructor for trees that utilize file I/O.
+- **DO NOT USE BINARY FILES FOR THIS PROJECT**. You will encode by outputting the 1’s and 0’s to a text file, you do not need to work with actual binary files!
+- You cannot use any data structure we have not covered in the course so far (i.e., HashTables are not allowed).
+- `BufferedReader` and its `read()` method can be especially helpful...
 
-> ***NOTE:***
-> - **DO NOT USE BINARY FILES FOR THIS PROJECT**.  You will encode by outputting the 1’s and 0’s to a text file, you do not need to work with actual binary files!
-> - You cannot use any data structure we have not covered in the course so far (i.e., HashTables are not allowed).
-> - `BufferedReader` and its `read()` method can be especially helpful...
-> 
 > ***PRO-TIP:*** A thorough explanation of a Huffman tree can be found on p. 299 of your textbook. **Make sure to use the count of each character in the file as the weights for the most efficient compression!**
