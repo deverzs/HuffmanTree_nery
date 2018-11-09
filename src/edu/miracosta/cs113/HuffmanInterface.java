@@ -1,7 +1,5 @@
 package edu.miracosta.cs113;
 
-import java.io.Serializable;
-
 /**
  * Class to represent and build a Huffman tree. Implementation code to be derived from Koffman & Wolfgang's Data
  * Structures: Abstraction and Design Using Java (2nd).
