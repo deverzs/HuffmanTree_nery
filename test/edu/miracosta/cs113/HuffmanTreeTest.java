@@ -13,13 +13,13 @@ import static org.junit.Assert.assertEquals;
 public class HuffmanTreeTest {
 
     /** Original and expected decoded values. */
-    public static final String[] DECODED = {"Hello World!!! Ready for Spring 2019?",
+    private static final String[] DECODED = {"Hello World!!! Ready for Spring 2019?",
                                         "the\tquick\tbrown\tfox\tjumps\tover\tthe\tlazy\tdog\t\t?!\n\n",
                                         "while walking wearily home...\ni wondered where wally was.\n",
                                         "Mike made mellow music with his nice new Neumann microphone."};
 
     /** Encoded values based on their own Huffman tree. */
-    public static final String[] ENCODED = {"001000110111011101101101000011101111111100111110011001100101000100110" +
+    private static final String[] ENCODED = {"001000110111011101101101000011101111111100111110011001100101000100110" +
                     "010000111001101010011111011111101010100101111110001110011100001011000101001100100000000101",
             "11110100111000011110101101000111111011110011011111111011110100000000101011101111010111000011110011101" +
                     "010110111111000011011010100100100010111011111010011100001100101001100000100010010010010101011" +
@@ -34,14 +34,10 @@ public class HuffmanTreeTest {
     /** A HuffmanTree to be built for each new String value. */
     HuffmanTree tree;
 
-    public void buildTree(String originalText) {
-        tree = new HuffmanTree(originalText);
-    }
-
     @Test
     public void testDecodedValues() {
         for (int i = 0; i < DECODED.length; i++) {
-            buildTree(DECODED[i]);
+            tree = new HuffmanTree(DECODED[i]);
             assertEquals("", ENCODED[i], tree.encode(DECODED[i]));
         }
     }
