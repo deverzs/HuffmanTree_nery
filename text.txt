@@ -1,0 +1,2262 @@
+!DOCTYPE html
+html classv2 dirltr xmlnshttpwww.w3.org1999xhtml xmlnsbhttpwww.google.com2005gmlb xmlnsdatahttpwww.google.com2005gmldata xmlnsexprhttpwww.google.com2005gmlexpr
+head
+link hrefhttpswww.blogger.comstaticv1widgets2727757643cssbundlev2.css relstylesheet typetextcss
+meta content0ed7ed1d0edb7e64f1e01f14d92ced70 namepdomainverify
+meta contentwidth1100 nameviewport
+meta contenttexthtml charsetUTF8 httpequivContentType
+meta contentblogger namegenerator
+link hrefhttpwww.zsusveganpantry.comfavicon.ico relicon typeimagexicon
+link hrefhttpwww.zsusveganpantry.compmenuplanning.html relcanonical
+link relalternate typeapplicationatomxml titleZsu39s Vegan Pantry  Atom hrefhttpwww.zsusveganpantry.comfeedspostsdefault 
+link relalternate typeapplicationrssxml titleZsu39s Vegan Pantry  RSS hrefhttpwww.zsusveganpantry.comfeedspostsdefault?altrss 
+link relservice.post typeapplicationatomxml titleZsu39s Vegan Pantry  Atom hrefhttpswww.blogger.comfeeds4087334849513050517postsdefault 
+!if IEscript typetextjavascript srchttpswww.blogger.comstaticv1jsbin864213505ieretrofit.jsscript
+!endif
+meta contenthttpwww.zsusveganpantry.compmenuplanning.html propertyogurl
+meta contentMENU PLANNING propertyogtitle
+meta content Writing out a weekly menu is the best way to make sure you eat well.     Check out the blog post HERE  for easy instructions.     Email m... propertyogdescription
+meta contenthttp2.bp.blogspot.com525aeHZbC0U1q8TAA9llIAAAAAAAAA989EQ5womSkww1200h630pknonuMenuDinneronlySAMPLES.jpg propertyogimage
+!if IE script function  var html5  abbrarticleasideaudiocanvasdatalistdetails  figurefooterheaderhgroupmarkmenumeternavoutput  progresssectiontimevideo.split for var i  0 i  html5.length i  document.createElementhtml5i  try  document.execCommandBackgroundImageCache false true  catche   script !endif
+titleZsus Vegan Pantry MENU PLANNINGtitle
+style typetextcssfontfacefontfamilyConsolasfontstylenormalfontweight400srclocalConsolasurlfonts.gstatic.comlfont?kitX7nm4bAA9jbjWaza9xMkskey3d1eb1871fcc58a1vv9formatwoff2unicoderangeU000000FFU0131U01520153U02BB02BCU02C6U02DAU02DCU2000206FU2074U20ACU2122U2191U2193U2212U2215UFEFFUFFFDfontfacefontfamilyCrushedfontstylenormalfontweight400srclocalCrushed RegularlocalCrushedRegularurlfonts.gstatic.comscrushedv8U9Mc6dym6WXImTlFf14VuQ.woff2formatwoff2unicoderangeU000000FFU0131U01520153U02BB02BCU02C6U02DAU02DCU2000206FU2074U20ACU2122U2191U2193U2212U2215UFEFFUFFFDstyle
+style idpageskin1 typetextcss!
+
+
+Blogger Template Style
+Name     Simple
+Designer Blogger
+URL      www.blogger.com
+ 
+
+ Content
+ 
+body 
+font normal normal 16px Consolas
+color 000000
+background ffffff none repeat scroll top left
+padding 0 0 0 0
+
+html body .regioninner 
+minwidth 0
+maxwidth 100
+width auto
+
+h2 
+fontsize 22px
+
+alink 
+textdecorationnone
+color 33aaff
+
+avisited 
+textdecorationnone
+color 0b5394
+
+ahover 
+textdecorationunderline
+color ff8832
+
+.bodyfauxcolumnouter .fauxcolumninner 
+background transparent none repeat scroll top left
+backgroundimage none
+
+.bodyfauxcolumnouter .captop 
+position absolute
+zindex 1
+height 400px
+width 100
+
+.bodyfauxcolumnouter .captop .capleft 
+width 100
+background transparent none repeatx scroll top left
+backgroundimage none
+
+.contentouter 
+mozboxshadow 0 0 0 rgba0 0 0 .15
+webkitboxshadow 0 0 0 rgba0 0 0 .15
+googmsboxshadow 0 0 0 333333
+boxshadow 0 0 0 rgba0 0 0 .15
+marginbottom 1px
+
+.contentinner 
+padding 10px 40px
+
+.contentinner 
+backgroundcolor ffffff
+
+ Header
+ 
+.headerouter 
+background transparent none repeatx scroll 0 400px
+backgroundimage none
+
+.Header h1 
+font normal normal 40px Trebuchet MSTrebuchetVerdanasansserif
+color 0000ff
+textshadow 0 0 0 rgba0 0 0 .2
+
+.Header h1 a 
+color 0000ff
+
+.Header .description 
+fontsize 18px
+color 0000ff
+
+.headerinner .Header .titlewrapper 
+padding 22px 0
+
+.headerinner .Header .descriptionwrapper 
+padding 0 0
+
+ Tabs
+ 
+.tabsinner .sectionfirstchild 
+bordertop 0 solid ffffff
+
+.tabsinner .sectionfirstchild ul 
+margintop 1px
+bordertop 1px solid ffffff
+borderleft 1px solid ffffff
+borderright 1px solid ffffff
+
+.tabsinner .widget ul 
+background transparent none repeatx scroll 0 800px
+backgroundimage none
+borderbottom 1px solid ffffff
+margintop 0
+marginleft 30px
+marginright 30px
+
+.tabsinner .widget li a 
+display inlineblock
+padding .6em 1em
+font normal normal 18px Crushed
+color 000000
+borderleft 1px solid ffffff
+borderright 1px solid ffffff
+
+.tabsinner .widget lifirstchild a 
+borderleft none
+
+.tabsinner .widget li.selected a .tabsinner .widget li ahover 
+color 166ad1
+backgroundcolor eeeeee
+textdecoration none
+
+ Columns
+ 
+.mainouter 
+bordertop 0 solid 0b5394
+
+.fauxcolumnleftouter .fauxcolumninner 
+borderright 1px solid 0b5394
+
+.fauxcolumnrightouter .fauxcolumninner 
+borderleft 1px solid 0b5394
+
+ Headings
+ 
+div.widget  h2
+div.widget h2.title 
+margin 0 0 1em 0
+font normal normal 24px Crushed
+color 000000
+
+ Widgets
+ 
+.widget .zippy 
+color ffffff
+textshadow 2px 2px 1px rgba0 0 0 .1
+
+.widget .popularposts ul 
+liststyle none
+
+ Posts
+ 
+h2.dateheader 
+font normal bold 11px Arial Tahoma Helvetica FreeSans sansserif
+
+.dateheader span 
+backgroundcolor ffffff
+color ffffff
+padding 0.4em
+letterspacing 3px
+margin inherit
+
+.maininner 
+paddingtop 35px
+paddingbottom 65px
+
+.maininner .columncenterinner 
+padding 0 0
+
+.maininner .columncenterinner .section 
+margin 0 1em
+
+.post 
+margin 0 0 45px 0
+
+h3.posttitle .comments h4 
+font normal normal 30px Crushed
+margin .75em 0 0
+
+.postbody 
+fontsize 110
+lineheight 1.4
+position relative
+
+.postbody img .postbody .trcaptioncontainer .Profile img .Image img
+.BlogList .itemthumbnail img 
+padding 2px
+background transparent
+border 1px solid transparent
+mozboxshadow 1px 1px 5px rgba0 0 0 .1
+webkitboxshadow 1px 1px 5px rgba0 0 0 .1
+boxshadow 1px 1px 5px rgba0 0 0 .1
+
+.postbody img .postbody .trcaptioncontainer 
+padding 5px
+
+.postbody .trcaptioncontainer 
+color 000000
+
+.postbody .trcaptioncontainer img 
+padding 0
+background transparent
+border none
+mozboxshadow 0 0 0 rgba0 0 0 .1
+webkitboxshadow 0 0 0 rgba0 0 0 .1
+boxshadow 0 0 0 rgba0 0 0 .1
+
+.postheader 
+margin 0 0 1.5em
+lineheight 1.6
+fontsize 90
+
+.postfooter 
+margin 20px 2px 0
+padding 5px 10px
+color 000000
+backgroundcolor cfe2f3
+borderbottom 1px solid transparent
+lineheight 1.6
+fontsize 90
+
+comments .commentauthor 
+paddingtop 1.5em
+bordertop 1px solid 0b5394
+backgroundposition 0 1.5em
+
+comments .commentauthorfirstchild 
+paddingtop 0
+bordertop none
+
+.avatarimagecontainer 
+margin .2em 0 0
+
+comments .avatarimagecontainer img 
+border 1px solid transparent
+
+ Comments
+ 
+.comments .commentscontent .icon.blogauthor 
+backgroundrepeat norepeat
+backgroundimage urldataimagepngbase64iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8AwDoL2nkwAAAAlwSFlzAAALEgAACxIB0t1AAAAAd0SU1FB9sLFwMeCjjhcOMAAADSURBVDjLtZSvTgNBEIeWRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjCzc7kyzH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9HAMBr32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg
+
+.comments .commentscontent .loadmore a 
+bordertop 1px solid ffffff
+borderbottom 1px solid ffffff
+
+.comments .commentthread.inlinethread 
+backgroundcolor cfe2f3
+
+.comments .continue 
+bordertop 2px solid ffffff
+
+ Accents
+ 
+.sectioncolumns td.columnscell 
+borderleft 1px solid 0b5394
+
+.blogpager 
+background transparent urlwww.blogblog.com1ktsimplepagingdot.png repeatx scroll top center
+
+.blogpagerolderlink .homelink
+.blogpagernewerlink 
+backgroundcolor ffffff
+padding 5px
+
+.footerouter 
+bordertop 1px dashed bbbbbb
+
+ Mobile
+ 
+body.mobile  
+backgroundsize auto
+
+.mobile .bodyfauxcolumnouter 
+background transparent none repeat scroll top left
+
+.mobile .bodyfauxcolumnouter .captop 
+backgroundsize 100 auto
+
+.mobile .contentouter 
+webkitboxshadow 0 0 3px rgba0 0 0 .15
+boxshadow 0 0 3px rgba0 0 0 .15
+
+.mobile .tabsinner .widget ul 
+marginleft 0
+marginright 0
+
+.mobile .post 
+margin 0
+
+.mobile .maininner .columncenterinner .section 
+margin 0
+
+.mobile .dateheader span 
+padding 0.1em 10px
+margin 0 10px
+
+.mobile h3.posttitle 
+margin 0
+
+.mobile .blogpager 
+background transparent none norepeat scroll top center
+
+.mobile .footerouter 
+bordertop none
+
+.mobile .maininner .mobile .footerinner 
+backgroundcolor ffffff
+
+.mobileindexcontents 
+color 000000
+
+.mobilelinkbutton 
+backgroundcolor 33aaff
+
+.mobilelinkbutton alink .mobilelinkbutton avisited 
+color 33aaff
+
+.mobile .tabsinner .sectionfirstchild 
+bordertop none
+
+.mobile .tabsinner .PageList .widgetcontent 
+backgroundcolor eeeeee
+color 166ad1
+bordertop 1px solid ffffff
+borderbottom 1px solid ffffff
+
+.mobile .tabsinner .PageList .widgetcontent .pagelistarrow 
+borderleft 1px solid ffffff
+
+.postbody img .postbody .trcaptioncontainer .Profile img .Image img
+.BlogList .itemthumbnail img 
+padding 0 !important
+border none !important
+background none !important
+mozboxshadow 0px 0px 0px transparent !important
+webkitboxshadow 0px 0px 0px transparent !important
+boxshadow 0px 0px 0px transparent !important
+
+style
+style idtemplateskin1 typetextcss!
+body 
+minwidth 1040px
+
+.contentouter .contentfauxcolumnouter .regioninner 
+minwidth 1040px
+maxwidth 1040px
+width 1040px
+
+.maininner .columns 
+paddingleft 0px
+paddingright 260px
+
+.maininner .fauxcolumncenterouter 
+left 0px
+right 260px
+ IE6 does not respect left and right together 
+width expressionthis.parentNode.offsetWidth 
+parseInt0px 
+parseInt260px  px
+
+.maininner .fauxcolumnleftouter 
+width 0px
+
+.maininner .fauxcolumnrightouter 
+width 260px
+
+.maininner .columnleftouter 
+width 0px
+right 100
+marginleft 0px
+
+.maininner .columnrightouter 
+width 260px
+marginright 260px
+
+layout 
+minwidth 0
+
+layout .contentouter 
+minwidth 0
+width 800px
+
+layout .regioninner 
+minwidth 0
+width auto
+
+style
+link hrefhttpswww.blogger.comdyncssauthorization.css?targetBlogID4087334849513050517ampzx868da996577844148ca259967c530167 medianone onloadifmedia!39all39media39all39 relstylesheetnoscriptlink hrefhttpswww.blogger.comdyncssauthorization.css?targetBlogID4087334849513050517ampzx868da996577844148ca259967c530167 relstylesheetnoscript
+
+head
+body classloading variantsimplysimple
+div classnavbar section idnavbardiv classwidget Navbar dataversion1 idNavbar1script typetextjavascript
+    function setAttributeOnloadobject attribute val 
+      ifwindow.addEventListener 
+        window.addEventListenerload
+          function objectattribute  val  false
+       else 
+        window.attachEventonload function objectattribute  val 
+      
+    
+  script
+div idnavbariframecontainerdiv
+script typetextjavascript srchttpsapis.google.comjsplusone.jsscript
+script typetextjavascript
+      gapi.loadgapi.iframesgapi.iframes.style.bubble function 
+        if gapi.iframes  gapi.iframes.getContext 
+          gapi.iframes.getContext.openChild
+              url httpswww.blogger.comnavbar.g?targetBlogIDx3d4087334849513050517x26blogNamex3dZsux27sVeganPantryx26publishModex3dPUBLISHMODEHOSTEDx26navbarTypex3dLIGHTx26layoutTypex3dLAYOUTSx26searchRootx3dhttpwww.zsusveganpantry.comsearchx26blogLocalex3denx26vx3d2x26homepageUrlx3dhttpwww.zsusveganpantry.comx26targetPageIDx3d9083744068812478248x26blogPostOrPageUrlx3dhttpwww.zsusveganpantry.compmenuplanning.htmlx26vtx3d5269693499827064661
+              where document.getElementByIdnavbariframecontainer
+              id navbariframe
+          
+        
+      
+    scriptscript typetextjavascript
+function 
+var script  document.createElementscript
+script.type  textjavascript
+script.src  pagead2.googlesyndication.compageadjsgoogletopexp.js
+var head  document.getElementsByTagNamehead0
+if head 
+head.appendChildscript
+
+script
+divdiv
+div classbodyfauxcolumns
+div classfauxcolumnouter bodyfauxcolumnouter
+div classcaptop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft
+div classfauxborderrightdiv
+div classfauxcolumninner
+div
+div
+div classcapbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div
+div classcontent
+div classcontentfauxcolumns
+div classfauxcolumnouter contentfauxcolumnouter
+div classcaptop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft
+div classfauxborderrightdiv
+div classfauxcolumninner
+div
+div
+div classcapbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div
+div classcontentouter
+div classcontentcaptop captop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft contentfauxborderleft
+div classfauxborderright contentfauxborderrightdiv
+div classcontentinner
+header
+div classheaderouter
+div classheadercaptop captop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft headerfauxborderleft
+div classfauxborderright headerfauxborderrightdiv
+div classregioninner headerinner
+div classheader section idheaderdiv classwidget Header dataversion1 idHeader1
+div idheaderinner
+a hrefhttpwww.zsusveganpantry.com styledisplay block
+img altZsu39s Vegan Pantry height200px  idHeader1headerimg srchttp1.bp.blogspot.comtzKumoGIViMKZDKLkOIAAAAAAAADHcQ7F7tdzSCUs1600rcatt2Bidea2Bheader2Bfor2Bblogger2Bno2Bstain2Bcopy.jpg styledisplay block width960px 
+a
+div classdescriptionwrapper
+p classdescriptionspan
+spanp
+div
+div
+divdiv
+div
+div
+div classheadercapbottom capbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+header
+div classtabsouter
+div classtabscaptop captop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft tabsfauxborderleft
+div classfauxborderright tabsfauxborderrightdiv
+div classregioninner tabsinner
+div classtabs noitems section idcrosscoldiv
+div classtabs section idcrosscoloverflowdiv classwidget PageList dataversion1 idPageList1
+h2pagesh2
+div classwidgetcontent
+ul
+li
+a hrefhttpwww.zsusveganpantry.comHOMEa
+li
+li classselected
+a hrefhttpwww.zsusveganpantry.compmenuplanning.htmlMENU PLANNINGa
+li
+li
+a hrefhttpwww.zsusveganpantry.comprecipes2958.htmlRECIPESa
+li
+li
+a hrefhttpwww.zsusveganpantry.compveganbowlstableofcontents.htmlVEGAN BOWLS TOCa
+li
+li
+a hrefhttpwww.zsusveganpantry.compaquafabatableofcontents.htmlAQUAFABA TOC and ERRATAa
+li
+ul
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypePageListwidgetIdPageList1actioneditWidgetsectionIdcrosscoloverflow onclickreturn WidgetManager.PopupConfigdocument.getElementByIdPageList1 targetconfigPageList1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+div
+divdiv
+div
+div
+div classtabscapbottom capbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div classmainouter
+div classmaincaptop captop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft mainfauxborderleft
+div classfauxborderright mainfauxborderrightdiv
+div classregioninner maininner
+div classcolumns fauxcolumns
+div classfauxcolumnouter fauxcolumncenterouter
+div classcaptop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft
+div classfauxborderrightdiv
+div classfauxcolumninner
+div
+div
+div classcapbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div classfauxcolumnouter fauxcolumnleftouter
+div classcaptop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft
+div classfauxborderrightdiv
+div classfauxcolumninner
+div
+div
+div classcapbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div classfauxcolumnouter fauxcolumnrightouter
+div classcaptop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft
+div classfauxborderrightdiv
+div classfauxcolumninner
+div
+div
+div classcapbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+! corrects IE6 width calculation 
+div classcolumnsinner
+div classcolumncenterouter
+div classcolumncenterinner
+div classmain section idmaindiv classwidget Blog dataversion1 idBlog1
+div classblogposts hfeed
+
+          div classdateouter
+        
+
+          div classdateposts
+        
+div classpostouter
+div classpost hentry itempropblogPost itemscopeitemscope itemtypehttpschema.orgBlogPosting
+meta contenthttp2.bp.blogspot.com525aeHZbC0U1q8TAA9llIAAAAAAAAA989EQ5womSkws1600MenuDinneronlySAMPLES.jpg itempropimageurl
+meta content4087334849513050517 itempropblogId
+meta content9083744068812478248 itemproppostId
+a name9083744068812478248a
+h3 classposttitle entrytitle itempropname
+MENU PLANNING
+h3
+div classpostheader
+div classpostheaderline1div
+div
+div classpostbody entrycontent idpostbody9083744068812478248 itempropdescription articleBody
+div classseparator styleclear both textalign left
+Writing out a weekly menu is the best way to make sure you eat well.nbspdiv
+div classseparator styleclear both textalign left
+br div
+div classseparator styleclear both textalign left
+Check out the blog post a hrefhttpwww.zsusveganpantry.com201404easystepstoweeklyfamilymenu.html targetblankHEREa for easy instructions.nbspdiv
+div classseparator styleclear both textalign left
+br div
+div classseparator styleclear both textalign left
+Email me zsu at zsusveganpantry dot com for the Excel version of the templates below. Include the version you need in the subject heading. Using the Excel version will allow you to manipulate the templates and print out weekly menus pretty as a picture.nbspdiv
+div classseparator styleclear both textalign left
+br div
+div classseparator styleclear both textalign left
+For the oldfashioned pen and paper versions just click on the PDF templates below and print.nbspdiv
+div classseparator styleclear both textalign left
+br div
+div classseparator styleclear both textalign left
+span stylefontfamily inheritspan stylebackgroundcolor white lineheight 19pxThe Dinner Only templates are stickynote compatible. They are sized to be used with small stickynotes about 2x2inch dimension ifnbspspanspan stylebackgroundcolor white lineheight 19pxdesiredspanspan stylebackgroundcolor white lineheight 19px.spanspandiv
+div classseparator styleclear both textalign left
+span stylefontfamily inheritspan stylebackgroundcolor white lineheight 19pxbr spanspandiv
+div classseparator styleclear both textalign left
+span stylefontfamily inheritspan stylebackgroundcolor white lineheight 19pxbr spanspandiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttp2.bp.blogspot.com525aeHZbC0U1q8TAA9llIAAAAAAAAA989EQ5womSkws1600MenuDinneronlySAMPLES.jpg imageanchor1 stylemarginleft 1em marginright 1emimg border0 height256 srchttp2.bp.blogspot.com525aeHZbC0U1q8TAA9llIAAAAAAAAA989EQ5womSkws1600MenuDinneronlySAMPLES.jpg width320 adiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKcWhsanZ3ZmxLSmMedit?uspsharing targetblankGeneral Dinner Only Templateadiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKVUJraDhYOFBHZjQedit?uspsharing targetblankSoy Free Dinner Only Templateadiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKV2pfTnNVLXhDYXcedit?uspsharing targetblankGluten Free Dinner Only Templateadiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKSjhqZ3ZVZUNLYTgedit?uspsharing targetblankSample Dinner Only Menuadiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttp4.bp.blogspot.com1PqFg3TpDJ0U1rI9BvvIAAAAAAAAAMqyfG5WetsL0s1600MenugeneralSAMPLES.jpg imageanchor1 stylemarginleft 1em marginright 1emimg border0 height236 srchttp4.bp.blogspot.com1PqFg3TpDJ0U1rI9BvvIAAAAAAAAAMqyfG5WetsL0s1600MenugeneralSAMPLES.jpg width320 adiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKUjVjaFZkeTE1YUUedit?uspsharing targetblankGeneral All Week Templateadiv
+div classseparator styleclear both textalign center
+br div
+div classseparator styleclear both textalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKSEVxM2FwSEFSenMedit?uspsharing targetblankSoy Free All Week Templateadiv
+div classseparator styleclear both textalign center
+br div
+div styletextalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKT1BVWV9xbkFHVU0edit?uspsharing targetblankGluten Free All Week Templateadiv
+div styletextalign center
+br div
+div styletextalign center
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKU1VmOTlaLU5tQjAedit?uspsharing targetblankSample All Week Menuabr 
+br 
+br 
+br 
+br 
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKclV6UHlmWHJqaWsedit?uspsharing targetblankWeekend Camping Menu Templateabr 
+br 
+a hrefhttpsdrive.google.comfiled0BylfouSQ2BDKaGVnQ0hiT1ZDM3cedit?uspsharing targetblankWeekend Camping Menu Sampleabr 
+br 
+br div
+div styleclear bothdiv
+div
+div classpostfooter
+div classpostfooterline postfooterline1span classpostcommentlink
+span
+span classposticons
+span classitemcontrol blogadmin pid1038274298
+a hrefhttpswww.blogger.compageedit.g?blogID4087334849513050517pageID9083744068812478248frompencil titleEdit Page
+img alt classiconaction height18 srchttpsresources.blogblog.comimgicon18editallbkg.gif width18
+a
+span
+span
+div classpostsharebuttons googinlineblock
+a classgooginlineblock sharebutton sbemail hrefhttpswww.blogger.comsharepost.g?blogID4087334849513050517pageID9083744068812478248targetemail targetblank titleEmail Thisspan classsharebuttonlinktextEmail Thisspanaa classgooginlineblock sharebutton sbblog hrefhttpswww.blogger.comsharepost.g?blogID4087334849513050517pageID9083744068812478248targetblog onclickwindow.openthis.href blank height270width475 return false targetblank titleBlogThis!span classsharebuttonlinktextBlogThis!spanaa classgooginlineblock sharebutton sbtwitter hrefhttpswww.blogger.comsharepost.g?blogID4087334849513050517pageID9083744068812478248targettwitter targetblank titleShare to Twitterspan classsharebuttonlinktextShare to Twitterspanaa classgooginlineblock sharebutton sbfacebook hrefhttpswww.blogger.comsharepost.g?blogID4087334849513050517pageID9083744068812478248targetfacebook onclickwindow.openthis.href blank height430width640 return false targetblank titleShare to Facebookspan classsharebuttonlinktextShare to Facebookspanaa classgooginlineblock sharebutton sbpinterest hrefhttpswww.blogger.comsharepost.g?blogID4087334849513050517pageID9083744068812478248targetpinterest targetblank titleShare to Pinterestspan classsharebuttonlinktextShare to Pinterestspanadiv classgooginlineblock googleplussharecontainergplusone sourcebloggerblogplusone hrefhttpwww.zsusveganpantry.compmenuplanning.html sizemedium width300 annotationinlinediv
+div
+div
+div classpostfooterline postfooterline2span classpostlabels
+span
+div
+div classpostfooterline postfooterline3div
+div
+div
+div classcomments idcomments
+a namecommentsa
+h41 commenth4
+div classcommentscontent
+script asyncasync src typetextjavascriptscript
+script typetextjavascript
+    function 
+      var items  null
+      var msgs  null
+      var config  
+
+ !CDATA
+      var cursor  null
+      if items  items.length  0 
+        cursor  parseIntitemsitems.length  1.timestamp  1
+      
+
+      var bodyFromEntry  functionentry 
+        var text  entry 
+                    entry.content  entry.content.t 
+                     entry.summary  entry.summary.t 
+            
+        if entry  entry.gdextendedProperty 
+          for var k in entry.gdextendedProperty 
+            if entry.gdextendedPropertyk.name  blogger.contentRemoved 
+              return span classdeletedcomment  text  span
+            
+          
+        
+        return text
+      
+
+      var parse  functiondata 
+        cursor  null
+        var comments  
+        if data  data.feed  data.feed.entry 
+          for var i  0 entry entry  data.feed.entryi i 
+            var comment  
+             comment ID parsed out of the original id format
+            var id  blogd.postd.execentry.id.t
+            comment.id  id ? id2  null
+            comment.body  bodyFromEntryentry
+            comment.timestamp  Date.parseentry.published.t  
+            if entry.author  entry.author.constructor  Array 
+              var auth  entry.author0
+              if auth 
+                comment.author  
+                  name auth.name ? auth.name.t  undefined
+                  profileUrl auth.uri ? auth.uri.t  undefined
+                  avatarUrl auth.gdimage ? auth.gdimage.src  undefined
+                
+              
+            
+            if entry.link 
+              if entry.link2 
+                comment.link  comment.permalink  entry.link2.href
+              
+              if entry.link3 
+                var pid  .commentsdefaultd?..execentry.link3.href
+                if pid  pid1 
+                  comment.parentId  pid1
+                
+              
+            
+            comment.deleteclass  itemcontrol blogadmin
+            if entry.gdextendedProperty 
+              for var k in entry.gdextendedProperty 
+                if entry.gdextendedPropertyk.name  blogger.itemClass 
+                  comment.deleteclass     entry.gdextendedPropertyk.value
+                 else if entry.gdextendedPropertyk.name  blogger.displayTime 
+                  comment.displayTime  entry.gdextendedPropertyk.value
+                
+              
+            
+            comments.pushcomment
+          
+        
+        return comments
+      
+
+      var paginator  functioncallback 
+        if hasMore 
+          var url  config.feed  ?altjsonv2orderbypublishedreversefalsemaxresults50
+          if cursor 
+            url  publishedmin  new Datecursor.toISOString
+          
+          window.bloggercomments  functiondata 
+            var parsed  parsedata
+            cursor  parsed.length  50 ? null
+                 parseIntparsedparsed.length  1.timestamp  1
+            callbackparsed
+            window.bloggercomments  null
+          
+          url  callbackbloggercomments
+          var script  document.createElementscript
+          script.type  textjavascript
+          script.src  url
+          document.getElementsByTagNamehead0.appendChildscript
+        
+      
+      var hasMore  function 
+        return !!cursor
+      
+      var getMeta  functionkey comment 
+        if iswriter  key 
+          var matches  !!comment.author
+               comment.author.name  config.authorName
+               comment.author.profileUrl  config.authorUrl
+          return matches ? true  
+         else if deletelink  key 
+          return config.baseUri  deletecomment.g?blogID
+                config.blogId  postID  comment.id
+         else if deleteclass  key 
+          return comment.deleteclass
+        
+        return 
+      
+
+      var replybox  null
+      var replyUrlParts  null
+      var replyParent  undefined
+
+      var onReply  functioncommentId domId 
+        if replybox  null 
+           lazily cache replybox and adjust to suit this style
+          replybox  document.getElementByIdcommenteditor
+          if replybox ! null 
+            replybox.height  250px
+            replybox.style.display  block
+            replyUrlParts  replybox.src.split
+          
+        
+        if replybox  commentId ! replyParent 
+          replybox.src  
+          document.getElementByIddomId.insertBeforereplybox null
+          replybox.src  replyUrlParts0
+               commentId ? parentID  commentId  
+                 replyUrlParts1
+          replyParent  commentId
+        
+      
+
+      var hash  window.location.hash  .substring1
+      var startThread targetComment
+      if commentform.testhash 
+        startThread  hash.substringcommentform.length
+       else if c09.testhash 
+        targetComment  hash.substring1
+      
+
+       Configure commenting API
+      var configJso  
+        maxDepth config.maxThreadDepth
+      
+      var provider  
+        id config.postId
+        data items
+        loadNext paginator
+        hasMore hasMore
+        getMeta getMeta
+        onReply onReply
+        rendered true
+        initComment targetComment
+        initReplyThread startThread
+        config configJso
+        messages msgs
+      
+
+      var render  function 
+        if window.goog  window.goog.comments 
+          var holder  document.getElementByIdcommentholder
+          window.goog.comments.renderholder provider
+        
+      
+
+       render now or queue to render when library loads
+      if window.goog  window.goog.comments 
+        render
+       else 
+        window.goog  window.goog  
+        window.goog.comments  window.goog.comments  
+        window.goog.comments.loadQueue  window.goog.comments.loadQueue  
+        window.goog.comments.loadQueue.pushrender
+      
+    
+ 
+  script
+div idcommentholder
+div classcommentthread toplevelthreadol idtoprali classcomment idc3696052058108537597div classavatarimagecontainerimg srcimg1.blogblog.comimgblank.gif altdivdiv classcommentblockdiv classcommentheadercite classuserAnonymouscitespan classicon user spanspan classdatetime secondarytexta relnofollow hrefhttpwww.zsusveganpantry.compmenuplanning.html?showComment1447301309651c3696052058108537597November 11 2015 at 808 PMaspandivp classcommentcontentThank you for your great planning advice.pspan classcommentactions secondarytexta classcommentreply targetself datacommentid3696052058108537597Replyaspan classitemcontrol blogadmin blogadmin pid498417145a targetself hrefhttpswww.blogger.comdeletecomment.g?blogID4087334849513050517amppostID3696052058108537597Deleteaspanspandivdiv classcommentrepliesdiv idc3696052058108537597rt classcommentthread inlinethread hiddenspan classthreadtoggle threadexpandedspan classthreadarrowspanspan classthreadcounta targetselfRepliesaspanspanol idc3696052058108537597ra classthreadchrome threadexpandeddivdivdiv idc3696052058108537597continue classcontinuea classcommentreply targetself datacommentid3696052058108537597Replyadivoldivdivdiv classcommentreplyboxsingle idc3696052058108537597cedivlioldiv idtopcontinue classcontinuea classcommentreply targetselfAdd commentadivdiv classcommentreplyboxthread idtopcedivdiv classloadmore hidden datapostid9083744068812478248a targetselfLoad more...adivdiv
+div
+div
+p classcommentfooter
+div classcommentform
+a namecommentforma
+p
+p
+a hrefhttpswww.blogger.comcommentiframe.g?blogID4087334849513050517pageID9083744068812478248 idcommenteditorsrca
+iframe allowtransparencytrue classbloggeriframecolorize bloggercommentfrompost frameborder0 height410px idcommenteditor namecommenteditor src width100iframe
+script srchttpswww.blogger.comstaticv1jsbin2567313873commentfrompostiframe.js typetextjavascriptscript
+script typetextjavascript
+      BLOGCMTcreateIframehttpswww.blogger.comrpcrelay.html
+    script
+div
+p
+div idbacklinkscontainer
+div idBlog1backlinkscontainer
+a namelinksah4!Cant find substitution for tag post.backlinksLabelh4
+p classcommentfooter
+a classcommentlink href idBlog1backlinkscreatelink targetblank!Cant find substitution for tag post.createLinkLabela
+p
+div
+div
+div
+div
+
+        divdiv
+      
+div
+div classblogpager idblogpager
+a classhomelink hrefhttpwww.zsusveganpantry.comHomea
+div
+div classcleardiv
+div classblogfeeds
+div classfeedlinks
+Subscribe to
+a classfeedlink hrefhttpwww.zsusveganpantry.comfeedspostsdefault targetblank typeapplicationatomxmlPosts Atoma
+div
+div
+script typetextjavascript
+    window.gcfg   lang en 
+  script
+divdiv classwidget HTML dataversion1 idHTML1
+div classwidgetcontent
+! AddThis Smart Layers BEGIN 
+! Go to httpwww.addthis.comgetsmartlayers to customize 
+script typetextjavascript srcs7.addthis.comjs300addthiswidget.jspubidra52097eac6e99d648script
+script typetextjavascript
+  addthis.layers
+    theme  transparent
+    share  
+      position  left
+      numPreferredServices  4
+       
+    recommended  
+      title Recommended for you
+     
+  
+script
+! AddThis Smart Layers END 
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML1actioneditWidgetsectionIdmain onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML1 targetconfigHTML1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv
+div
+div
+div classcolumnleftouter
+div classcolumnleftinner
+aside
+aside
+div
+div
+div classcolumnrightouter
+div classcolumnrightinner
+aside
+div classsidebar section idsidebarright1div classwidget FollowByEmail dataversion1 idFollowByEmail1
+h2 classtitlefollow by emailh2
+div classwidgetcontent
+div classfollowbyemailinner
+form actionhttpsfeedburner.google.comfbamailverify methodpost onsubmitwindow.openhttpsfeedburner.google.comfbamailverify?urizsusveganpantryTnEX popupwindow scrollbarsyeswidth550height520 return true targetpopupwindow
+table width100
+tr
+td
+input classfollowbyemailaddress nameemail placeholderEmail address... typetext
+td
+td width64px
+input classfollowbyemailsubmit typesubmit valueSubmit
+td
+tr
+table
+input nameuri typehidden valuezsusveganpantryTnEX
+input nameloc typehidden valueenUS
+form
+div
+div
+span classitemcontrol blogadmin
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeFollowByEmailwidgetIdFollowByEmail1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdFollowByEmail1 targetconfigFollowByEmail1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+span
+divdiv classwidget Image dataversion1 idImage1
+h2on sale now!h2
+div classwidgetcontent
+a hrefhttpwww.amazon.comAquafabaSweetSavoryEggFreeRecipesdp1941252273refasapbc?ieUTF8
+img alton sale now! height241 idImage1img srchttp2.bp.blogspot.comklmAvhWK8lsV6oFdOYVxvIAAAAAAAAD4wLybkP91D0oFHAZkIFsHw417UhwWbwCK4Bs1600AMP2BAquafaba2BFRONT2BCOVER2BWEB2B200px.jpg width200
+a
+br
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeImagewidgetIdImage1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdImage1 targetconfigImage1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Image dataversion1 idImage6
+h2aquafaba tid bitsh2
+div classwidgetcontent
+img altaquafaba tid bits height248 idImage6img srchttp1.bp.blogspot.comh391czRjbKMV82dtCLFksIAAAAAAAAEOAHQEbvDXxwroGlI4hLakKZXYCv3cEiEjlACK4Bs1600aquafaba2Bsmaller.jpg width200
+br
+span classcaptionIf you are using homemade aquafaba make sure it is nice and thick and viscous. If you are using canned aquafaba reduce it by 13 before using to get the right consistency. Strain the aquafaba before using warm aquafaba strains better because it is thinner. Aquafaba thickens as it cools.span
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeImagewidgetIdImage6actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdImage6 targetconfigImage6 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Image dataversion1 idImage3
+h2now available!h2
+div classwidgetcontent
+a hrefhttpwww.amazon.comgpproduct194125215Xrefasliqfspasiniltl?ieUTF8camp1789creative9325creativeASIN194125215XlinkCodeas2tagzsusvegpan20linkIdAZQBXJ62WLRNJGYE
+img altnow available! height240 idImage3img srchttp3.bp.blogspot.comk3qBWhJ4zQVWy6eYCjUpIAAAAAAAACPI0E9dUW899dws1600Vegan2BBowls2B1352BFinal2B56152B2b.jpg width200
+a
+br
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeImagewidgetIdImage3actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdImage3 targetconfigImage3 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Image dataversion1 idImage2
+h2on sale nowh2
+div classwidgetcontent
+a hrefhttpwww.amazon.comgpproduct098546626Xrefasliqfspasiniltl?ieUTF8camp1789creative9325creativeASIN098546626XlinkCodeas2tagzsusvegpan20linkIdCOCBVMV2HINJJQHS
+img alton sale now height236 idImage2img srchttp4.bp.blogspot.com9ticslaOTUIViMJFmkEX3IAAAAAAAADHQPE6EcRUriIs1600rEVE2BFinal2BFront2BCover2B300dpi.jpg width200
+a
+br
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeImagewidgetIdImage2actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdImage2 targetconfigImage2 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Image dataversion1 idImage5
+h2videosh2
+div classwidgetcontent
+a hrefhttpswww.youtube.comcZsusVeganPantry
+img altvideos height155 idImage5img srchttp3.bp.blogspot.comd6O5GsDQ90V7xoGba7PoIAAAAAAAAEDY2K99c42blkgWK5tGvGkh04NFgUaVoACK4Bs1600YOU2BTUBE2BARt2Bfor2Bblogger.jpg width200
+a
+br
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeImagewidgetIdImage5actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdImage5 targetconfigImage5 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget BlogSearch dataversion1 idBlogSearch1
+h2 classtitleSearch This Blogh2
+div classwidgetcontent
+div idBlogSearch1form
+form actionhttpwww.zsusveganpantry.comsearch classgscsearchbox targettop
+table cellpadding0 cellspacing0 classgscsearchbox
+tbody
+tr
+td classgscinput
+input autocompleteoff classgscinput nameq size10 titlesearch typetext value
+td
+td classgscsearchbutton
+input classgscsearchbutton titlesearch typesubmit valueSearch
+td
+tr
+tbody
+table
+form
+div
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeBlogSearchwidgetIdBlogSearch1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdBlogSearch1 targetconfigBlogSearch1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget HTML dataversion1 idHTML9
+div classwidgetcontent
+a hrefhttpswww.facebook.comZsusVeganPantry targetblankimg border0 srchttp4.bp.blogspot.comp3Q7kj4vw8UwGwMLEOrSIAAAAAAAAAuoDQ5n4PbFkHAs320newface.jpg aa hrefhttpsplus.google.com103193654554164253027postsppub targetblankimg border0 srchttp2.bp.blogspot.comwiBoxVHkPvYUwGwMNwFCgIAAAAAAAAAvIenPGcCSNQDUs320newgoogle.jpg aa hrefhttpinstagram.comzsusveganpantry targetblankimg border0 srchttp1.bp.blogspot.combJkHvhLIsmoUwGwMNxQxUIAAAAAAAAAusxv98u0PXss320newinsta.jpg aa hrefhttpwww.pinterest.comzsudever targetblankimg border0 srchttp1.bp.blogspot.com2kDN4lqR7OcUwGwMdxo25IAAAAAAAAAu00Bj13fcii7Ms320newpin.jpg aa hrefhttpstwitter.comZsuDever targetblankimg border0 srchttp4.bp.blogspot.comuXp7CyW1gtQUwGwMhEg2qIAAAAAAAAAu8UfioGBUQs320newtweet.jpg aa hrefhttpswww.blogger.comfollowblog.g?blogID4087334849513050517 targetblankimg border0 srchttp1.bp.blogspot.com6QYuKguMoekUwGx7kQTaIAAAAAAAAAvcHL0nv6zL9lgs320newblogger.jpg a
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML9actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML9 targetconfigHTML9 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget HTML dataversion1 idHTML11
+div classwidgetcontent
+pa hrefhttpfeeds.feedburner.comZsusVeganPantry relalternate typeapplicationrssxmlimg srcfeedburner.google.comfbimagespubfeedicon16x16.png alt styleverticalalignmiddleborder0anbspa hrefhttpfeeds.feedburner.comZsusVeganPantry relalternate typeapplicationrssxmlSubscribe in a readerap
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML11actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML11 targetconfigHTML11 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget BlogArchive dataversion1 idBlogArchive1
+h2archivesh2
+div classwidgetcontent
+div idArchiveList
+div idBlogArchive1ArchiveList
+select idBlogArchive1ArchiveMenu
+option valuearchivesoption
+option valuehttpwww.zsusveganpantry.com201809September 2option
+option valuehttpwww.zsusveganpantry.com201806June 1option
+option valuehttpwww.zsusveganpantry.com201804April 1option
+option valuehttpwww.zsusveganpantry.com201712December 1option
+option valuehttpwww.zsusveganpantry.com201708August 3option
+option valuehttpwww.zsusveganpantry.com201707July 4option
+option valuehttpwww.zsusveganpantry.com201706June 6option
+option valuehttpwww.zsusveganpantry.com201705May 3option
+option valuehttpwww.zsusveganpantry.com201703March 3option
+option valuehttpwww.zsusveganpantry.com201701January 10option
+option valuehttpwww.zsusveganpantry.com201612December 4option
+option valuehttpwww.zsusveganpantry.com201611November 7option
+option valuehttpwww.zsusveganpantry.com201610October 9option
+option valuehttpwww.zsusveganpantry.com201609September 13option
+option valuehttpwww.zsusveganpantry.com201608August 11option
+option valuehttpwww.zsusveganpantry.com201607July 2option
+option valuehttpwww.zsusveganpantry.com201605May 1option
+option valuehttpwww.zsusveganpantry.com201604April 1option
+option valuehttpwww.zsusveganpantry.com201603March 1option
+option valuehttpwww.zsusveganpantry.com201602February 1option
+option valuehttpwww.zsusveganpantry.com201601January 3option
+option valuehttpwww.zsusveganpantry.com201512December 1option
+option valuehttpwww.zsusveganpantry.com201511November 4option
+option valuehttpwww.zsusveganpantry.com201510October 5option
+option valuehttpwww.zsusveganpantry.com201509September 26option
+option valuehttpwww.zsusveganpantry.com201508August 7option
+option valuehttpwww.zsusveganpantry.com201507July 1option
+option valuehttpwww.zsusveganpantry.com201506June 7option
+option valuehttpwww.zsusveganpantry.com201505May 2option
+option valuehttpwww.zsusveganpantry.com201504April 5option
+option valuehttpwww.zsusveganpantry.com201503March 2option
+option valuehttpwww.zsusveganpantry.com201502February 1option
+option valuehttpwww.zsusveganpantry.com201501January 2option
+option valuehttpwww.zsusveganpantry.com201412December 1option
+option valuehttpwww.zsusveganpantry.com201411November 1option
+option valuehttpwww.zsusveganpantry.com201410October 1option
+option valuehttpwww.zsusveganpantry.com201409September 22option
+option valuehttpwww.zsusveganpantry.com201408August 4option
+option valuehttpwww.zsusveganpantry.com201407July 4option
+option valuehttpwww.zsusveganpantry.com201406June 4option
+option valuehttpwww.zsusveganpantry.com201405May 5option
+option valuehttpwww.zsusveganpantry.com201404April 6option
+option valuehttpwww.zsusveganpantry.com201403March 6option
+option valuehttpwww.zsusveganpantry.com201402February 2option
+option valuehttpwww.zsusveganpantry.com201401January 2option
+option valuehttpwww.zsusveganpantry.com201310October 2option
+option valuehttpwww.zsusveganpantry.com201309September 8option
+option valuehttpwww.zsusveganpantry.com201308August 2option
+option valuehttpwww.zsusveganpantry.com201307July 1option
+option valuehttpwww.zsusveganpantry.com201305May 3option
+option valuehttpwww.zsusveganpantry.com201304April 2option
+option valuehttpwww.zsusveganpantry.com201303March 2option
+option valuehttpwww.zsusveganpantry.com201302February 2option
+option valuehttpwww.zsusveganpantry.com201301January 7option
+option valuehttpwww.zsusveganpantry.com201212December 9option
+option valuehttpwww.zsusveganpantry.com201211November 6option
+option valuehttpwww.zsusveganpantry.com201210October 16option
+option valuehttpwww.zsusveganpantry.com201209September 2option
+option valuehttpwww.zsusveganpantry.com201208August 5option
+option valuehttpwww.zsusveganpantry.com201206June 2option
+option valuehttpwww.zsusveganpantry.com201205May 1option
+option valuehttpwww.zsusveganpantry.com201204April 4option
+option valuehttpwww.zsusveganpantry.com201203March 4option
+option valuehttpwww.zsusveganpantry.com201202February 8option
+option valuehttpwww.zsusveganpantry.com201201January 10option
+option valuehttpwww.zsusveganpantry.com201112December 15option
+option valuehttpwww.zsusveganpantry.com201110October 10option
+option valuehttpwww.zsusveganpantry.com201109September 9option
+option valuehttpwww.zsusveganpantry.com201108August 4option
+option valuehttpwww.zsusveganpantry.com201107July 3option
+option valuehttpwww.zsusveganpantry.com201106June 5option
+option valuehttpwww.zsusveganpantry.com201105May 7option
+option valuehttpwww.zsusveganpantry.com201104April 11option
+option valuehttpwww.zsusveganpantry.com201103March 10option
+option valuehttpwww.zsusveganpantry.com201102February 10option
+option valuehttpwww.zsusveganpantry.com201101January 13option
+option valuehttpwww.zsusveganpantry.com201012December 19option
+option valuehttpwww.zsusveganpantry.com201011November 21option
+option valuehttpwww.zsusveganpantry.com201010October 27option
+option valuehttpwww.zsusveganpantry.com201009September 27option
+option valuehttpwww.zsusveganpantry.com201008August 41option
+option valuehttpwww.zsusveganpantry.com201007July 50option
+option valuehttpwww.zsusveganpantry.com201006June 43option
+option valuehttpwww.zsusveganpantry.com201005May 24option
+select
+div
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeBlogArchivewidgetIdBlogArchive1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdBlogArchive1 targetconfigBlogArchive1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+div
+divdiv classwidget HTML dataversion1 idHTML4
+div classwidgetcontent
+script typetextjavascript
+document.onkeyup  functionevent
+
+if document.activeElement.nodeName  TEXTAREA  document.activeElement.nodeName  INPUT return
+event  event  window.event
+switchevent.keyCode
+
+case 37
+var newerLink  document.getElementByIdBlog1blogpagernewerlink
+ifnewerLink !null window.location.href  newerLink.href
+break
+case 39
+var olderLink  document.getElementByIdBlog1blogpagerolderlink
+ifolderLink!null window.location.href  olderLink.href
+
+
+script
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML4actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML4 targetconfigHTML4 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Text dataversion1 idText1
+h2 classtitlecontact me!h2
+div classwidgetcontent
+zsu at zsusveganpantry dot com
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeTextwidgetIdText1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdText1 targetconfigText1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget FeaturedPost dataversion1 idFeaturedPost1
+h2 classtitlerecipe of the weekh2
+div classpostsummary
+h3a hrefhttpwww.zsusveganpantry.com201609bulgogispringrolls.htmlbulgogi spring rollsah3
+p
+Although I have a more authentic and still easytomake recipe for Korean Bulgogi   which is barbecue that is served in lettuce leaves  ...
+p
+img classimage srchttps3.bp.blogspot.comQFxR7CEtzUVVmBD013DIAAAAAAAAEZUYWjFgewIZPU0UGc1HPhCWOADAiNsANTwCLcBs1600DSC6329small2.jpg
+div
+style typetextcss
+    .image 
+      width 100
+    
+  style
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeFeaturedPostwidgetIdFeaturedPost1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdFeaturedPost1 targetconfigFeaturedPost1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget PopularPosts dataversion1 idPopularPosts1
+h2popular postsh2
+div classwidgetcontent popularposts
+ul
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201608redpozole.html targetblank
+img alt border0 srchttps1.bp.blogspot.comUuVrGLHHFIwV8NTjyf13fIAAAAAAAAEIE4JiTW4JqFbI6ikZA8oyCJ5KyJLyJuzOgCLcBw72h72pknonured2Bcloser.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201608redpozole.htmlred pozoleadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201405veganfingerfoodsgiveaway.html targetblank
+img alt border0 srchttp3.bp.blogspot.comeXt2p8TZOA8U2h1icxv2TIAAAAAAAAA8Mw88Pi36I8w72h72pknonuDSC0150testcopy.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201405veganfingerfoodsgiveaway.htmlvegan finger foods giveaway adiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201610pantrythaibbqcauliflower.html targetblank
+img alt border0 srchttps1.bp.blogspot.comfnw6jR2CcJsWAGH9uweV6IAAAAAAAAEnY6fL8XJQKGrMxnZNcsAG9unfjrnVbeMxQCLcBw72h72pknonuDSC01052Bless2Bintense.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201610pantrythaibbqcauliflower.htmlpantry  thai bbq caulifloweradiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201706theveganairfryergiveaway.html targetblank
+img alt border0 srchttps3.bp.blogspot.comAxgAXe2pRMUWUWNdjKCAdIAAAAAAAAFJAslvUsximPnUSudB1JU5vvw0lo9YgSwryACLcBGAsw72h72pknonuThe2BVegan2BAir2BFryer.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201706theveganairfryergiveaway.htmlthe vegan air fryer  giveawayadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201012holidays.html targetblank
+img alt border0 srchttp2.bp.blogspot.comi7O4Ak7H8Q8TPvATCUG92IAAAAAAAABSQMYDJMGEErHEw72h72pknonu5209357034741b453489.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201012holidays.htmlholidaysadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201509veganofoblueblueberryparfait.html targetblank
+img alt border0 srchttp4.bp.blogspot.comltzNuluvj8wVfHcMRul7IAAAAAAAACwEncXTLZ89HYw72h72pknonuBlueberry2BParfait2Btoo2BZsu2527s2BVegan2BPantry.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201509veganofoblueblueberryparfait.htmlveganmofo  blue  blueberry parfaitadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201610sabich.html targetblank
+img alt border0 srchttps1.bp.blogspot.comq3TsK5Flfi8WAmZlPjm1mIAAAAAAAAEpEuIsWQBGLc3UWd5Sa6YSJkregupMmUNn8wCLcBw72h72pknonusabich2Btall.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201610sabich.htmlsabichadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201409burgerbreakvegantacosgiveaway.html targetblank
+img alt border0 srchttp3.bp.blogspot.comNQEOQ3yqLEVBewXpmyZIAAAAAAAABmsCDE769A5O4Iw72h72pknonuVegan2BTacos2BCover2B1.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201409burgerbreakvegantacosgiveaway.htmlburger break  vegan tacos giveawayadiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201512theonlycleanseyouwilleverneed.html targetblank
+img alt border0 srchttp1.bp.blogspot.comyCeeu48XaAVmjGVdvafsIAAAAAAAADXASMtJ8PLgkQw72h72pknonu9781615192724.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201512theonlycleanseyouwilleverneed.htmlthe only cleanse you will ever need!adiv
+div
+div styleclear bothdiv
+li
+li
+div classitemthumbnailonly
+div classitemthumbnail
+a hrefhttpwww.zsusveganpantry.com201403springkaleanddillsoupwithrice22.html targetblank
+img alt border0 srchttp1.bp.blogspot.comcWvm340ptUoUy3WCmS4nDIAAAAAAAAA3wvpncasyTeTww72h72pknonuorig0539squarehistwater.jpg
+a
+div
+div classitemtitlea hrefhttpwww.zsusveganpantry.com201403springkaleanddillsoupwithrice22.htmlspring kale and dill soup with riceadiv
+div
+div styleclear bothdiv
+li
+ul
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypePopularPostswidgetIdPopularPosts1actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdPopularPosts1 targetconfigPopularPosts1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+div
+divdiv classwidget Text dataversion1 idText2
+div classwidgetcontent
+This blog is an Amazon affiliate.
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeTextwidgetIdText2actioneditWidgetsectionIdsidebarright1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdText2 targetconfigText2 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv
+aside
+div
+div
+div
+div styleclear bothdiv
+! columns 
+div
+! main 
+div
+div
+div classmaincapbottom capbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+footer
+div classfooterouter
+div classfootercaptop captop
+div classcapleftdiv
+div classcaprightdiv
+div
+div classfauxborderleft footerfauxborderleft
+div classfauxborderright footerfauxborderrightdiv
+div classregioninner footerinner
+div classfoot section idfooter1div classwidget HTML dataversion1 idHTML2
+div classwidgetcontent
+script
+  functionisogramiGoogleAnalyticsObjectririrfunction
+  ir.qir.q.pushargumentsir.l1new Dateas.createElemento
+  ms.getElementsByTagNameo0a.async1a.srcgm.parentNode.insertBefoream
+  windowdocumentscriptwww.googleanalytics.comanalytics.jsga
+
+  gacreate UA530956161 auto
+  gasend pageview
+
+script
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML2actioneditWidgetsectionIdfooter1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML2 targetconfigHTML2 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv classwidget Label dataversion1 idLabel1
+h2Labelsh2
+div classwidgetcontent cloudlabelwidgetcontent
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabel23veganmofoveganmofoa
+span classlabelcount dirltr95span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelAfricanAfricana
+span classlabelcount dirltr6span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelair20fryerair fryera
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelApplebee27sApplebee39sa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelapplesapplesa
+span classlabelcount dirltr7span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelaquafabaaquafabaa
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelartichokeartichokea
+span classlabelcount dirltr10span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelAsianAsiana
+span classlabelcount dirltr55span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelasparagusasparagusa
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelAuntie20Anne27s20PretzelsAuntie Anne39s Pretzelsa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelAVKAVKa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelavocadoavocadoa
+span classlabelcount dirltr23span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbananabananaa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbarleybarleya
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbasilbasila
+span classlabelcount dirltr16span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelBBQBBQa
+span classlabelcount dirltr7span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbeansbeansa
+span classlabelcount dirltr98span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbeetsbeetsa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelBennigan27sBennigan39sa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelBoston20MarketBoston Marketa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbroccolibroccolia
+span classlabelcount dirltr21span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbrunchbruncha
+span classlabelcount dirltr34span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelBrussels20sproutsBrussels sproutsa
+span classlabelcount dirltr4span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelbuffalobuffaloa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelBuffalo20Wild20WingsBuffalo Wild Wingsa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelburgerburgera
+span classlabelcount dirltr32span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcabbagecabbagea
+span classlabelcount dirltr31span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCafe20FloraCafe Floraa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCalifornia20Pizza20KitchenCalifornia Pizza Kitchena
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCandle20CafeCandle Cafea
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcarrotcarrota
+span classlabelcount dirltr30span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcasserolecasserolea
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCatCata
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcauliflowercauliflowera
+span classlabelcount dirltr30span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcelerycelerya
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcelery20rootcelery roota
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcheese20saucecheese saucea
+span classlabelcount dirltr9span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCheesecake20FactoryCheesecake Factorya
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelChi20ChisChi Chisa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelChicago20DinerChicago Dinera
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelchickpeaschickpeasa
+span classlabelcount dirltr27span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelchilichilia
+span classlabelcount dirltr11span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelChili27sChili39sa
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelchocolatechocolatea
+span classlabelcount dirltr12span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcilantrocilantroa
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCinnabonCinnabona
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcinnamoncinnamona
+span classlabelcount dirltr4span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcoconutcoconuta
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcoconut20milkcoconut milka
+span classlabelcount dirltr4span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelContestContesta
+span classlabelcount dirltr49span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcorncorna
+span classlabelcount dirltr31span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelCracker20BarrelCracker Barrela
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcreamycreamya
+span classlabelcount dirltr10span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelcucumbercucumbera
+span classlabelcount dirltr14span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelDairy20QueenDairy Queena
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelDenny27sDenny39sa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelDump20DinnerDump Dinnera
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeleggplanteggplanta
+span classlabelcount dirltr21span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelEngine20220DietEngine 2 Dieta
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelEuropeanEuropeana
+span classlabelcount dirltr26span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelFNFFNFa
+span classlabelcount dirltr15span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelForks20Over20KnivesForks Over Knivesa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelfriedfrieda
+span classlabelcount dirltr17span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelgluten20freegluten freea
+span classlabelcount dirltr19span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelgreen20beansgreen beansa
+span classlabelcount dirltr21span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelgreensgreensa
+span classlabelcount dirltr46span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelGrills20Gone20VeganGrills Gone Vegana
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelhabanerohabaneroa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelHard20Rock20CafeHard Rock Cafea
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelhorseradishhorseradisha
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelhowto20breakdownhowto breakdowna
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelHungarianHungariana
+span classlabelcount dirltr19span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelIHOPIHOPa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelIndianIndiana
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelItalianItaliana
+span classlabelcount dirltr38span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelJoe27s20Crab20ShackJoe39s Crab Shacka
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelkalekalea
+span classlabelcount dirltr20span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelLatinLatina
+span classlabelcount dirltr6span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelleekleeka
+span classlabelcount dirltr6span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabellegumeslegumesa
+span classlabelcount dirltr9span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabellemonlemona
+span classlabelcount dirltr21span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabellentillentila
+span classlabelcount dirltr17span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelLong20John20SilversLong John Silversa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelLonghornLonghorna
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelMexicanMexicana
+span classlabelcount dirltr38span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelMillenniumMillenniuma
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelmintminta
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelmisomisoa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelMother27s20CafeMother39s Cafea
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelmushroommushrooma
+span classlabelcount dirltr70span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelNative20FoodsNative Foodsa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelnutsnutsa
+span classlabelcount dirltr34span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelOlive20GardenOlive Gardena
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelolivesolivesa
+span classlabelcount dirltr20span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeloniononiona
+span classlabelcount dirltr26span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelOutbackOutbacka
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelPantry2BPantrya
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelparsnipparsnipa
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpastapastaa
+span classlabelcount dirltr76span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelPat27s20King20of20SteakPat39s King of Steaka
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpepperpeppera
+span classlabelcount dirltr97span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpitapitaa
+span classlabelcount dirltr7span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpizzapizzaa
+span classlabelcount dirltr14span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpolentapolentaa
+span classlabelcount dirltr11span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelPopeye27sPopeye39sa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpotatopotatoa
+span classlabelcount dirltr94span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelPrep20AheadPrep Aheada
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelpuff20pastrypuff pastrya
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelQ.E.2028Quick20and20Easy29Q.E. Quick and Easya
+span classlabelcount dirltr22span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelrapinirapinia
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelrawrawa
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelRed20RobinRed Robina
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelricericea
+span classlabelcount dirltr37span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelRoly20PolyRoly Polya
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsaladsalada
+span classlabelcount dirltr28span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsandwichsandwicha
+span classlabelcount dirltr95span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsauerkrautsauerkrauta
+span classlabelcount dirltr7span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsausagesausagea
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelseaweedseaweeda
+span classlabelcount dirltr10span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelseedsseedsa
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelseitanseitana
+span classlabelcount dirltr108span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsesame20seedssesame seedsa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsoupsoupa
+span classlabelcount dirltr56span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelSoup20NaziSoup Nazia
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsour2027cream27sour 39cream39a
+span classlabelcount dirltr12span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelSouthernSoutherna
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsoysoya
+span classlabelcount dirltr95span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsoy20freesoy freea
+span classlabelcount dirltr21span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelspicyspicya
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelspinachspinacha
+span classlabelcount dirltr38span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelStarch20DietStarch Dieta
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelSteaKSteaKa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelSublimeSublimea
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelSumaSumaa
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize4
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsummer20squashsummer squasha
+span classlabelcount dirltr28span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsweet20potatosweet potatoa
+span classlabelcount dirltr18span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelsweetssweetsa
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelT.G.I.20Friday27sT.G.I. Friday39sa
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeltempehtempeha
+span classlabelcount dirltr10span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeltestertestera
+span classlabelcount dirltr11span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeltofutofua
+span classlabelcount dirltr80span
+span
+span classlabelsize labelsize5
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeltomatotomatoa
+span classlabelcount dirltr125span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabeltortillatortillaa
+span classlabelcount dirltr13span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelVegan20Sandwiches20Save20the20DayVegan Sandwiches Save the Daya
+span classlabelcount dirltr2span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelvideovideoa
+span classlabelcount dirltr3span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelVine20and20DineVine and Dinea
+span classlabelcount dirltr8span
+span
+span classlabelsize labelsize2
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelWFPBWFPBa
+span classlabelcount dirltr5span
+span
+span classlabelsize labelsize1
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelWhole20Grain20Vegan20BakingWhole Grain Vegan Bakinga
+span classlabelcount dirltr1span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelwinter20squashwinter squasha
+span classlabelcount dirltr12span
+span
+span classlabelsize labelsize3
+a dirltr hrefhttpwww.zsusveganpantry.comsearchlabelyogurtyogurta
+span classlabelcount dirltr11span
+span
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeLabelwidgetIdLabel1actioneditWidgetsectionIdfooter1 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdLabel1 targetconfigLabel1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+div
+divdiv
+table border0 cellpadding0 cellspacing0 classsectioncolumns columns2
+tbody
+tr
+td classfirst columnscell
+div classfoot noitems section idfooter21div
+td
+td classcolumnscell
+div classfoot section idfooter22div classwidget HTML dataversion1 idHTML7
+div classwidgetcontent
+! Start of StatCounter Code for Blogger  Blogspot 
+script typetextjavascript
+!CDATA
+var scproject9171852 
+var scinvisible0 
+var scsecurityd4762cea 
+var scJsHost  https  document.location.protocol ? httpssecure.  httpwww.
+document.writescript typetextjavascript src  scJsHost statcounter.comcountercounterxhtml.jsscript
+
+script
+noscriptdiv classstatcountera titleblogger analytics hrefhttpstatcounter.comblogger classstatcounterimg classstatcounter srchttpc.statcounter.com91718520d4762cea0 altblogger analytics adivnoscript
+! End of StatCounter Code for Blogger  Blogspot 
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeHTMLwidgetIdHTML7actioneditWidgetsectionIdfooter22 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdHTML7 targetconfigHTML7 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv
+td
+tr
+tbody
+table
+! outside of the include in order to lock Attribution widget 
+div classfoot section idfooter3div classwidget Attribution dataversion1 idAttribution1
+div classwidgetcontent styletextalign center
+Simple theme. Powered by a hrefhttpswww.blogger.com targetblankBloggera.
+div
+div classcleardiv
+span classwidgetitemcontrol
+span classitemcontrol blogadmin
+a classquickedit hrefwww.blogger.comrearrange?blogID4087334849513050517widgetTypeAttributionwidgetIdAttribution1actioneditWidgetsectionIdfooter3 onclickreturn WidgetManager.PopupConfigdocument.getElementByIdAttribution1 targetconfigAttribution1 titleEdit
+img alt height18 srchttpsresources.blogblog.comimgicon18wrenchallbkg.png width18
+a
+span
+span
+div classcleardiv
+divdiv
+div
+div
+div classfootercapbottom capbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+footer
+! content 
+div
+div
+div classcontentcapbottom capbottom
+div classcapleftdiv
+div classcaprightdiv
+div
+div
+div
+script typetextjavascript
+    window.setTimeoutfunction 
+        document.body.className  document.body.className.replaceloading 
+       10
+  script
+
+script typetextjavascript srchttpswww.blogger.comstaticv1widgets2230271354widgets.jsscript
+script typetextjavascript
+windowwavt  AOuZoY4DCOkIu4xV9mHBZODfcSWtjYgZA1542423783191WidgetManager.Initwww.blogger.comrearrange?blogIDx3d4087334849513050517www.zsusveganpantry.compmenuplanning.html4087334849513050517
+WidgetManager.SetDataContextname blog data blogId 4087334849513050517 title Zsux27s Vegan Pantry url httpwww.zsusveganpantry.compmenuplanning.html canonicalUrl httpwww.zsusveganpantry.compmenuplanning.html homepageUrl httpwww.zsusveganpantry.com searchUrl httpwww.zsusveganpantry.comsearch canonicalHomepageUrl httpwww.zsusveganpantry.com blogspotFaviconUrl httpwww.zsusveganpantry.comfavicon.ico bloggerUrl httpswww.blogger.com hasCustomDomain true httpsEnabled false enabledCommentProfileImages true gPlusViewType FILTEREDPOSTMOD adultContent false analyticsAccountNumber  encoding UTF8 locale en localeUnderscoreDelimited en languageDirection ltr isPrivate false isMobile false isMobileRequest false mobileClass  isPrivateBlog false feedLinks x3clink relx3dx22alternatex22 typex3dx22applicationatomxmlx22 titlex3dx22Zsux2639s Vegan Pantry  Atomx22 hrefx3dx22httpwww.zsusveganpantry.comfeedspostsdefaultx22 x3enx3clink relx3dx22alternatex22 typex3dx22applicationrssxmlx22 titlex3dx22Zsux2639s Vegan Pantry  RSSx22 hrefx3dx22httpwww.zsusveganpantry.comfeedspostsdefault?altx3drssx22 x3enx3clink relx3dx22service.postx22 typex3dx22applicationatomxmlx22 titlex3dx22Zsux2639s Vegan Pantry  Atomx22 hrefx3dx22httpswww.blogger.comfeeds4087334849513050517postsdefaultx22 x3en meTag  adsenseHostId cahostpub1556223355139109 adsenseHasAds false ieCssRetrofitLinks x3c!if IEx3ex3cscript typex3dx22textjavascriptx22 srcx3dx22httpswww.blogger.comstaticv1jsbin864213505ieretrofit.jsx22x3ex3cscriptx3enx3c!endifx3e view  dynamicViewsCommentsSrc www.blogblog.comdynamicviews4224c15c4e7c9321jscomments.js dynamicViewsScriptSrc www.blogblog.comdynamicviews59cc7abb943c8727 plusOneApiSrc httpsapis.google.comjsplusone.js sharing platforms name Get link key link shareMessage Get link target  name Facebook key facebook shareMessage Share to Facebook target facebook name BlogThis! key blogThis shareMessage BlogThis! target blog name Twitter key twitter shareMessage Share to Twitter target twitter name Pinterest key pinterest shareMessage Share to Pinterest target pinterest name Google key googlePlus shareMessage Share to Google target googleplus name Email key email shareMessage Email target email googlePlusShareButtonWidth 300 googlePlusBootstrap x3cscript typex3dx22textjavascriptx22x3ewindow.gcfg x3d x27langx27 x27enx27x3cscriptx3e hasCustomJumpLinkMessage false jumpLinkMessage Read more pageType staticpage pageId 9083744068812478248 pageName MENU PLANNING pageTitle Zsux27s Vegan Pantry MENU PLANNING name features data sharinggetlinkdialog true sharingnative false name messages data edit Edit linkCopiedToClipboard Link copied to clipboard! ok Ok postLink Post Link name template data name custom localizedName Custom isResponsive false isAlternateRendering false isCustom true variant simplysimple variantId simplysimple name view data classic name classic url ?viewx3dclassic flipcard name flipcard url ?viewx3dflipcard magazine name magazine url ?viewx3dmagazine mosaic name mosaic url ?viewx3dmosaic sidebar name sidebar url ?viewx3dsidebar snapshot name snapshot url ?viewx3dsnapshot timeslide name timeslide url ?viewx3dtimeslide isMobile false title MENU PLANNING description  Writing out a weekly menu is the best way to make sure you eat well.160     Check out the blog post HERE  for easy instructions.160     Email m... featuredImage http2.bp.blogspot.com525aeHZbC0U1q8TAA9llIAAAAAAAAA989EQ5womSkws1600MenuDinneronlySAMPLES.jpg url httpwww.zsusveganpantry.compmenuplanning.html type item isSingleItem true isMultipleItems false isError false isPage true isPost false isHomepage false isArchive false isLabelSearch false pageId 9083744068812478248
+WidgetManager.RegisterWidgetNavbarView new WidgetInfoNavbar1 navbar document.getElementByIdNavbar1  displayModeFull
+WidgetManager.RegisterWidgetHeaderView new WidgetInfoHeader1 header document.getElementByIdHeader1  displayModeFull
+WidgetManager.RegisterWidgetPageListView new WidgetInfoPageList1 crosscoloverflow document.getElementByIdPageList1 title pages links isCurrentPage false href httpwww.zsusveganpantry.com title HOME isCurrentPage true href httpwww.zsusveganpantry.compmenuplanning.html id 9083744068812478248 title MENU PLANNING isCurrentPage false href httpwww.zsusveganpantry.comprecipes2958.html id 9013358656842728584 title RECIPES isCurrentPage false href httpwww.zsusveganpantry.compveganbowlstableofcontents.html id 4208910251159279076 title VEGAN BOWLS TOC isCurrentPage false href httpwww.zsusveganpantry.compaquafabatableofcontents.html id 9051154343682136789 title AQUAFABA TOC and ERRATA mobile false displayModeFull
+WidgetManager.RegisterWidgetBlogView new WidgetInfoBlog1 main document.getElementByIdBlog1 cmtInteractionsEnabled false useNgc true lightboxEnabled true lightboxModuleUrl httpswww.blogger.comstaticv1jsbin53926336lbx.js lightboxCssUrl httpswww.blogger.comstaticv1vcss368954415lightboxbundle.css displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML1 main document.getElementByIdHTML1  displayModeFull
+WidgetManager.RegisterWidgetFollowByEmailView new WidgetInfoFollowByEmail1 sidebarright1 document.getElementByIdFollowByEmail1  displayModeFull
+WidgetManager.RegisterWidgetImageView new WidgetInfoImage1 sidebarright1 document.getElementByIdImage1 resize false displayModeFull
+WidgetManager.RegisterWidgetImageView new WidgetInfoImage6 sidebarright1 document.getElementByIdImage6 resize true displayModeFull
+WidgetManager.RegisterWidgetImageView new WidgetInfoImage3 sidebarright1 document.getElementByIdImage3 resize true displayModeFull
+WidgetManager.RegisterWidgetImageView new WidgetInfoImage2 sidebarright1 document.getElementByIdImage2 resize true displayModeFull
+WidgetManager.RegisterWidgetImageView new WidgetInfoImage5 sidebarright1 document.getElementByIdImage5 resize false displayModeFull
+WidgetManager.RegisterWidgetBlogSearchView new WidgetInfoBlogSearch1 sidebarright1 document.getElementByIdBlogSearch1  displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML9 sidebarright1 document.getElementByIdHTML9  displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML11 sidebarright1 document.getElementByIdHTML11  displayModeFull
+WidgetManager.RegisterWidgetBlogArchiveView new WidgetInfoBlogArchive1 sidebarright1 document.getElementByIdBlogArchive1 languageDirection ltr loadingMessage Loadingx26hellip displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML4 sidebarright1 document.getElementByIdHTML4  displayModeFull
+WidgetManager.RegisterWidgetTextView new WidgetInfoText1 sidebarright1 document.getElementByIdText1  displayModeFull
+WidgetManager.RegisterWidgetFeaturedPostView new WidgetInfoFeaturedPost1 sidebarright1 document.getElementByIdFeaturedPost1  displayModeFull
+WidgetManager.RegisterWidgetPopularPostsView new WidgetInfoPopularPosts1 sidebarright1 document.getElementByIdPopularPosts1  displayModeFull
+WidgetManager.RegisterWidgetTextView new WidgetInfoText2 sidebarright1 document.getElementByIdText2  displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML2 footer1 document.getElementByIdHTML2  displayModeFull
+WidgetManager.RegisterWidgetLabelView new WidgetInfoLabel1 footer1 document.getElementByIdLabel1  displayModeFull
+WidgetManager.RegisterWidgetHTMLView new WidgetInfoHTML7 footer22 document.getElementByIdHTML7  displayModeFull
+WidgetManager.RegisterWidgetAttributionView new WidgetInfoAttribution1 footer3 document.getElementByIdAttribution1  displayModeFull
+script
+body
+html
