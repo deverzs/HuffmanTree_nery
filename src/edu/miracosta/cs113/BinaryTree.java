@@ -157,6 +157,7 @@ public class BinaryTree<E> implements Serializable {
 
     @Override
     public String toString() {
+        System.out.println("called tosting");
         StringBuilder sb = new StringBuilder();
         preOrderTraverse(root, 1, sb);
         return sb.toString();
@@ -185,6 +186,7 @@ public class BinaryTree<E> implements Serializable {
             left = null;
             right = null;
         }
+
 
         @Override
         public String toString() {
